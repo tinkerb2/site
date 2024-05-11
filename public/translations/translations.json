@@ -1,0 +1,13 @@
+{
+  "en": {
+    "header": {
+    "menu_btn": "Menu"
+  }
+
+  },
+  "ua": {
+    "header": {
+      "menu_btn": "Меню"
+    }
+  }
+}
